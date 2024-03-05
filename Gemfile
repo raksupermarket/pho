@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-tidy"
   gem 'jekyll-dotenv'
   gem "htmlbeautifier", "<1.4.0"
+  gem "jekyll-paginate"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
