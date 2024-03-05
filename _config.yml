@@ -21,6 +21,10 @@
 # Build settings
 plugins:
   - jekyll-dotenv
+  - jekyll-paginate
+
+paginate: 3
+paginate_path: "/page:num/"
 
 image_processing:
   large:
